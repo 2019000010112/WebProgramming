@@ -16,7 +16,7 @@
           
         if($count == 1)
         {  
-            header("Location:/WebProgramming/profile.html", true, 301);
+            header("Location:/WebProgramming/WebProgramming/profile.html", true, 301);
 
             exit();
         }  
